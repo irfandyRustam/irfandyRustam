@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web UI Automation, Katalon Studio**
 
-- 📫 How to reach me **irfandy4hmad@gmail.com**
+- 📫 How to reach me **irfandy4work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
