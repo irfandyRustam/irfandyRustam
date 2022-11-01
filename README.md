@@ -5,7 +5,7 @@
 
 - 🔭 I have experience working on **Web UI Automation, API Automation**
 
-- 🌱 I’m currently learning **Python, Selenium, Katalon Studio**
+- 🌱 I’m currently learning **Selenium, Cypress and Playwright**
 
 - 💬 Ask me about **Web UI Automation, Katalon Studio**
 
