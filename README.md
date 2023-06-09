@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfandi Rustam</h1>
-<h3 align="center">I'm a QA Automation Engineer from the Malaysia!</h3>
+<h3 align="center">I'm a QA Automation Engineer from Malaysia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfandyrustam&label=Profile%20views&color=0e75b6&style=flat" alt="irfandyrustam" /> </p>
 
