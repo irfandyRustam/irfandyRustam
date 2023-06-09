@@ -5,7 +5,7 @@
 
 - 🔭 I have experience working on **Web UI Automation, API Automation**
 
-- 🌱 I’m currently learning **Selenium, Cypress and Playwright**
+- 🌱 Automation tools that i have worked on **Selenium, Cypress and Katalon Studio**
 
 - 💬 Ask me about **Web UI Automation, Katalon Studio**
 
